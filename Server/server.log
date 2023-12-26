@@ -1,0 +1,237 @@
+2023/12/26 17:41:30 Server start with ports {:7070}
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /posts HTTP/1.1" 200 44
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "GET /posts HTTP/1.1" 200 46
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /posts HTTP/1.1" 200 46
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "PUT /posts/2 HTTP/1.1" 200 48
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /posts HTTP/1.1" 200 44
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /posts/3 HTTP/1.1" 200 94
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /comments HTTP/1.1" 200 184
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+::1 - - [26/Dec/2023:17:43:40 +0300] "GET /comments HTTP/1.1" 200 186
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /comments HTTP/1.1" 200 216
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "PUT /comments/2 HTTP/1.1" 200 194
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "POST /comments HTTP/1.1" 200 206
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /comments/3 HTTP/1.1" 200 380
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:40 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:40 +0300] "GET /posts/author/michelle88 HTTP/1.1" 200 3
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "GET /posts/53/comments HTTP/1.1" 200 3
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /comments/post/30 HTTP/1.1" 200 3
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 26
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "GET /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 26
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "PUT /profile HTTP/1.1" 200 23
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 52
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 52
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 43
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 214
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 216
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 230
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 187
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 177
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 23
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 28
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 28
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 24
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /profile HTTP/1.1" 200 28
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /posts HTTP/1.1" 200 49
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 160
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "POST /comments HTTP/1.1" 200 124
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "GET /comments/9 HTTP/1.1" 200 124
+2023/12/26 17:43:41 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:43:41 +0300] "DELETE /comments/9 HTTP/1.1" 200 1564
+::1 - - [26/Dec/2023:17:43:41 +0300] "GET /comments/9 HTTP/1.1" 200 30
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /posts HTTP/1.1" 200 52
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "GET /posts HTTP/1.1" 200 442
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /posts HTTP/1.1" 200 43
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "PUT /posts/10 HTTP/1.1" 200 50
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /posts/11 HTTP/1.1" 200 492
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /comments HTTP/1.1" 200 223
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+::1 - - [26/Dec/2023:17:44:36 +0300] "GET /comments HTTP/1.1" 200 1787
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /comments HTTP/1.1" 200 194
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "PUT /comments/10 HTTP/1.1" 200 174
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /comments HTTP/1.1" 200 180
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /comments/11 HTTP/1.1" 200 1961
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "GET /posts/author/castillostacy HTTP/1.1" 200 3
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "GET /posts/74/comments HTTP/1.1" 200 3
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /comments/post/63 HTTP/1.1" 200 3
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "POST /profile HTTP/1.1" 200 24
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "GET /profile HTTP/1.1" 200 12
+2023/12/26 17:44:36 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:36 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 27
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "PUT /profile HTTP/1.1" 200 21
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 44
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 49
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 50
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 196
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 198
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 170
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 207
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 224
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 24
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 23
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 26
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 21
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /profile HTTP/1.1" 200 25
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /posts HTTP/1.1" 200 53
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 150
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /profile HTTP/1.1" 200 12
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "POST /comments HTTP/1.1" 200 179
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "GET /comments/17 HTTP/1.1" 200 179
+2023/12/26 17:44:37 Error creating or opening db.json file: open DataBase/db.json: The system cannot find the path specified.
+::1 - - [26/Dec/2023:17:44:37 +0300] "DELETE /comments/17 HTTP/1.1" 200 3106
+::1 - - [26/Dec/2023:17:44:37 +0300] "GET /comments/17 HTTP/1.1" 200 30
